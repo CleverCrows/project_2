@@ -358,6 +358,8 @@ class EndPage(tk.Frame):
     def __init__(self, parent, controller) -> None:
         """
         EndPage construction and layout.
+        TODO: Recording of previous attempts.
+        TODO: Restarting the game.
         :param parent: Used in init function.
         :param controller: Not used, but needs to be here to make the app work.
         """
